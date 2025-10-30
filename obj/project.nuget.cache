@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nOnH5HUitwQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sawfan\\Documents\\Code\\sdstemcon2025\\chuss\\Chess-Challenge\\Chess-Challenge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sawfan\\.nuget\\packages\\raylib-cs\\4.5.0.2\\raylib-cs.4.5.0.2.nupkg.sha512",
+    "C:\\Users\\Sawfan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
