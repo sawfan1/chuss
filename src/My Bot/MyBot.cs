@@ -6,7 +6,7 @@ using System;
 CHUSS Chess BOT
 
  1018 / 1024 tokens wow perfect limit, that was not intentional at all
-I just reailsd comments don't take up tokens lolol
+I just reailsd  comments don't take up tokens lolol
 
 Anyways, ....
 
