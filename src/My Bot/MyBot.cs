@@ -5,7 +5,7 @@ using System;
 
 CHUSS Chess BOT
 
- 1017 / 1024 tokens wow perfect limit, that was not intentional at all
+ 1018 / 1024 tokens wow perfect limit, that was not intentional at all
 I just reailsd comments don't take up tokens lolol
 
 Anyways, ....
@@ -77,7 +77,7 @@ public class MyBot :  IChessBot
         0x5869586958695869,0x4758475847584758,0x3647364736473647,0x2536253625362536,
         0xACBCACBCACBCACBC,0x9BAC9BAC9BAC9BAC,0x8A9B8A9B8A9B8A9B ,0x798A798A798A798A,
         0x6879687968796879,0x5768576857685768,0x4657465746574657, 0x3546354635463546,
-        0xBCCDBCCDBCCDBCCD
+        0xBCCDBCCDBCCDBCCD, 0xBCCDBCCDBCCDBCCD
     };
 
     int[] pieceValues = {100, 320,330, 500,900, 10000 },

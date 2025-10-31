@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sawfan\\Documents\\Code\\sdstemcon2025\\chuss\\Chess-Challenge\\Chess-Challenge.csproj": {}
+    "C:\\Users\\Sawfan\\Downloads\\chuss\\Chess-Challenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sawfan\\Documents\\Code\\sdstemcon2025\\chuss\\Chess-Challenge\\Chess-Challenge.csproj": {
+    "C:\\Users\\Sawfan\\Downloads\\chuss\\Chess-Challenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sawfan\\Documents\\Code\\sdstemcon2025\\chuss\\Chess-Challenge\\Chess-Challenge.csproj",
+        "projectUniqueName": "C:\\Users\\Sawfan\\Downloads\\chuss\\Chess-Challenge.csproj",
         "projectName": "Chess-Challenge",
-        "projectPath": "C:\\Users\\Sawfan\\Documents\\Code\\sdstemcon2025\\chuss\\Chess-Challenge\\Chess-Challenge.csproj",
+        "projectPath": "C:\\Users\\Sawfan\\Downloads\\chuss\\Chess-Challenge.csproj",
         "packagesPath": "C:\\Users\\Sawfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sawfan\\Documents\\Code\\sdstemcon2025\\chuss\\Chess-Challenge\\obj\\",
+        "outputPath": "C:\\Users\\Sawfan\\Downloads\\chuss\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
