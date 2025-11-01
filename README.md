@@ -8,3 +8,5 @@ Overall, the bot is very time efficient, specially for bullet games. It's also e
 # Further enhancements
 Going past 1024 tokens, my suggestions to anyone willing to continue on this base, would be at first to implement transposition tables with depth updating.
 Things like null move pruning, and some other creative ways that I don't know of yet may also be possible. Also, one can implement a zobrist key based opening book to save time at the start.
+
+Personally, I would like to implement an NNUE (efficiently updatable neural network) much like alpha zero in the evaluation function of this engine instead of using those ugly hexademical pst packing. Theoratically, a NNUE paired with a very strong search function can realistically compete with some of the finest engines like the latest version of Stockfist at the moment of writing (stockfist 17). I hope to continue this project some other time, perhaps after I have completed my Harvard CS50 AI course. Uptil then, peace.
